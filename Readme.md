@@ -1,1 +1,1 @@
-echo "# printuilively" >> README.md
+# printuilively"
